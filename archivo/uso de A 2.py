@@ -1,0 +1,5 @@
+archi1=open("datos.txt",'a')
+archi1.write("primera linea \n")
+archi1.write("segunda linea \n")
+archi1.write("tercera linea \n")
+archi1.close()
